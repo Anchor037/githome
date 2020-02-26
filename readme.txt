@@ -4,5 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 test stash.
 test a big bug.
+Git is so easy.
 
 
