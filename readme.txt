@@ -5,5 +5,3 @@ Git tracks changes.
 test a stash.
 test a big bug.
 Git is so easy.
-
-
